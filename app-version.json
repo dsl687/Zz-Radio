@@ -1,0 +1,8 @@
+{
+  "payload": "eyJhdXRob3IiOiJQaXBlbGluZSIsImRhdGFiYXNlcyI6W3siZG93bmxvYWRfdXJsIjoiL3NjbC9GSUxFTkFNRT9ybGtleT1tdjhlOGxidTh0bGZ4ZHNrNHdtM24xYnZ6IiwiZmlsZW5hbWUiOiJGSUxFTkFNRSIsImhhc2giOnsiYWxnb3JpdGhtIjoic2hhMjU2IiwidmFsdWUiOiJmNzczYjZkOGVlZjlhYjg1ODAxMGM2M2JjYjUyZGI1OTliOTlkZWI4ZGRiODY5OWI5ODI3MjJkNzRiNzJhNWJlIn19XSwidGltZXN0YW1wIjoiMjAyNi0wOS0xMFQyMjoyNDoyNy0wMzowMCIsInZlcnNpb25Db2RlIjoxNSwidmVyc2lvbk5hbWUiOiIxLjAuMTUifQo=",
+  "signature": {
+    "algorithm": "Ed25519",
+    "keyId": "master_key",
+    "value": "PNaolpqM9qz3pV4S575/T539cG4QGqV0c7b43CiJyH5Wm+yWJHUp93LOHbN9sps4JvuYeSSlK7pyrHPEXNAvBA=="
+  }
+}
